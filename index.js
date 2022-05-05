@@ -1,2 +1,2 @@
-//comment on the JS here
+//JS comment
 alert("Hello, World!"); 
